@@ -1,0 +1,14 @@
+#aboutus{
+    background-image: url("../../images/image.png");
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#aboutus h1 , #aboutus h2{
+color: rgb(172, 53, 185);
+margin-left: 20px;
+font-size: 22px;
+}

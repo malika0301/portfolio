@@ -1,0 +1,38 @@
+.inputc {
+    width: 1000px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 50px;
+    margin-bottom: 40px;
+}
+
+.adres h1, .desc {
+    padding-left: 50px;
+    margin-top: 10px;
+    text-align: center;
+    color: gray;
+}
+
+.input .button {
+    margin-top: 20px;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 10px;
+    background-color: blue;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.input input {
+    padding: 20px;
+    padding-right: 50px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+label {
+    color: gray;
+}
